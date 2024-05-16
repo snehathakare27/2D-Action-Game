@@ -1,21 +1,6 @@
-# Blue Boy Adventure
+# 2D Action Game
 
-<h3> JAVA 2D ACTION RPG </h3> 
 
-## Installation
-* Download ZIP and Extract "Blue-Boy-Adventure-master" to Desktop.
-
-* Open IntelliJ IDEA and Select Open Project.
-
-* Choose "Blue-Boy-Adventure-master" folder and Select "Yes" to ReUse Module Files.
-
-* At this point, be sure you are opening the root folder (/Blue-Boy-Adventure-master).
-
-* Go src -> main folder -> Run Main
-
-* Lastly don't forget to Setup SDK if needed.
-
-</br > 
 
 ## Goal
 Kill monsters! Get stronger! Buy powerful items! Find the dungeon keys! Solve the dungeon puzzle! KILL THE BOSS!
